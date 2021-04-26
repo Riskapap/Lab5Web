@@ -37,3 +37,24 @@ TI.19.A2
 ![20](https://user-images.githubusercontent.com/56241285/116011224-11217f80-a64e-11eb-944c-23cc8001cadc.png)
 ## Pembuatan Form
 ### Form Input
+![21](https://user-images.githubusercontent.com/56241285/116035209-cd029f00-a68e-11eb-8ce1-e024c207350f.png)
+![22](https://user-images.githubusercontent.com/56241285/116035247-ddb31500-a68e-11eb-818c-b98b7f34e583.png)
+![23](https://user-images.githubusercontent.com/56241285/116035265-e572b980-a68e-11eb-86d9-0b0153d427e9.png)
+### Form Button
+![24](https://user-images.githubusercontent.com/56241285/116038367-911e0880-a693-11eb-8ea4-d8eca28c6c36.png)
+![25](https://user-images.githubusercontent.com/56241285/116038389-97ac8000-a693-11eb-8aa9-c76cd5cd2bf9.png)
+## HTML DOM
+### Pilihan menggunakan checkBox dengan perhitungan otomatis
+![26](https://user-images.githubusercontent.com/56241285/116045180-fbd34200-a69b-11eb-82d1-94ac3ad57a10.png)
+![27](https://user-images.githubusercontent.com/56241285/116045302-1d342e00-a69c-11eb-8bf4-ad654d3b42a6.png)
+## Pertanyaan dan Tugas
+### 1. Buat script untuk melakukan validasi isian form.
+#### HTML untuk validasi form
+html dan css
+![28 29](https://user-images.githubusercontent.com/56241285/116048330-44d8c580-a69f-11eb-8c82-f31f81aa0bb5.png)
+hasil Input Tidak Lengkap
+![30](https://user-images.githubusercontent.com/56241285/116048025-f1667780-a69e-11eb-9b00-4244a6cfa117.png)
+HTML Home
+![31](https://user-images.githubusercontent.com/56241285/116048446-6174fd80-a69f-11eb-845c-670ed78ca3d0.png)
+Hasil jika semua data telah diisi dan menekan tombol daftar :
+![32](https://user-images.githubusercontent.com/56241285/116048618-8bc6bb00-a69f-11eb-8527-d9feedc570f0.png)
